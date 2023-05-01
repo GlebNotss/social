@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+@import '../pages/index.scss';
+@import '../shared/index.scss';
+@import '../features/index.scss';
+@import '../entities/index.scss';
+@import '../widgets/index.scss';
